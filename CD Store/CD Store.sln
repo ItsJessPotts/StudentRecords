@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD Store", "CD Store\CD Store.csproj", "{FDC05DAA-0506-4499-8D94-8835EBF81215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC05DAA-0506-4499-8D94-8835EBF81215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC05DAA-0506-4499-8D94-8835EBF81215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC05DAA-0506-4499-8D94-8835EBF81215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC05DAA-0506-4499-8D94-8835EBF81215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC2780D-A7C8-4016-8F8C-28DB86C5EC89}
+	EndGlobalSection
+EndGlobal

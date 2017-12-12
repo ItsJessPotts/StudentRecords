@@ -1,4 +1,6 @@
-﻿using System.Data.Entity;
+﻿
+
+using System.Data.Entity;
 
 namespace CDStore
 {
@@ -12,5 +14,6 @@ namespace CDStore
 
         public DbSet<Artist> Artists { get; set; }
         public DbSet<Song> Songs { get; set; }
+        public DbSet<CD> CDs { get; set; }
     }
 }

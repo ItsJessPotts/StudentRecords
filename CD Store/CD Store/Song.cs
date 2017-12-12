@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿
+using System.Collections.Generic;
 
 namespace CDStore
 {
@@ -11,6 +12,8 @@ namespace CDStore
         public virtual Artist Artist { get; set; }
 
         public virtual string MusicType { get; set; }
+
+        public virtual List <CD> Cds { get; set; }
     }
 }
 
